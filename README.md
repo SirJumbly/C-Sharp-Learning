@@ -8,7 +8,7 @@ The goal of this repository is to contain and document my progress towards the m
 - Coming soon - Last viewed 3/19/2024
 
 
-Roadmap - 
+## Roadmap - 
 - Understanding of C#
 - Contribution to a C# Open-source project
 - Self-Imposed Capstone Project
