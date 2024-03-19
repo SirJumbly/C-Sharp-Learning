@@ -9,7 +9,7 @@ The goal of this repository is to contain and document my progress towards the m
 
 
 Roadmap - 
-Understanding of C#
-Contribution to a C# Open-source project
-Self-Imposed Capstone Project
-Creation of a small community-based C# project with directed goals.
+- Understanding of C#
+- Contribution to a C# Open-source project
+- Self-Imposed Capstone Project
+- Creation of a small community-based C# project with directed goals.
