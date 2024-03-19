@@ -4,7 +4,7 @@ Repository for small textual-based C# Projects to demonstrate understanding of c
 
 The goal of this repository is to contain and document my progress towards the mastery and complete understanding of C# as it will be the language I will primarily use on my road to becoming a .NET developer focused on cross-platform optimization of applications.
 
-# - TABLE OF CONTENTS -
+# TABLE OF CONTENTS 
 - Coming soon - Last viewed 3/19/2024
 
 
