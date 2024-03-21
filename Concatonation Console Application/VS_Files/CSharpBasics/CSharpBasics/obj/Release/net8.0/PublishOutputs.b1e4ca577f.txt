@@ -1,0 +1,5 @@
+G:\Git_Repositories\C-Sharp-Learning\Concatonation Console Application\CSharpBasics.exe
+G:\Git_Repositories\C-Sharp-Learning\Concatonation Console Application\CSharpBasics.dll
+G:\Git_Repositories\C-Sharp-Learning\Concatonation Console Application\CSharpBasics.deps.json
+G:\Git_Repositories\C-Sharp-Learning\Concatonation Console Application\CSharpBasics.runtimeconfig.json
+G:\Git_Repositories\C-Sharp-Learning\Concatonation Console Application\CSharpBasics.pdb

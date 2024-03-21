@@ -1,0 +1,15 @@
+G:\VS_Repositories\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.exe
+G:\VS_Repositories\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.deps.json
+G:\VS_Repositories\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.runtimeconfig.json
+G:\VS_Repositories\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.dll
+G:\VS_Repositories\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.pdb
+G:\VS_Repositories\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+G:\VS_Repositories\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.AssemblyInfoInputs.cache
+G:\VS_Repositories\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.AssemblyInfo.cs
+G:\VS_Repositories\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.csproj.CoreCompileInputs.cache
+G:\VS_Repositories\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.sourcelink.json
+G:\VS_Repositories\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.dll
+G:\VS_Repositories\CSharpBasics\CSharpBasics\obj\Debug\net8.0\refint\CSharpBasics.dll
+G:\VS_Repositories\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.pdb
+G:\VS_Repositories\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.genruntimeconfig.cache
+G:\VS_Repositories\CSharpBasics\CSharpBasics\obj\Debug\net8.0\ref\CSharpBasics.dll

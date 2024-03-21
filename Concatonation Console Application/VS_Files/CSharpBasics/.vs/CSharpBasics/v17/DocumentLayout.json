@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\VS_Repositories\\CSharpBasics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A89C7FA2-E283-40F7-9F4D-44B2A6D7333B}|CSharpBasics\\CSharpBasics.csproj|g:\\vs_repositories\\csharpbasics\\csharpbasics\\csharpbasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A89C7FA2-E283-40F7-9F4D-44B2A6D7333B}|CSharpBasics\\CSharpBasics.csproj|solutionrelative:csharpbasics\\csharpbasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89C7FA2-E283-40F7-9F4D-44B2A6D7333B}|CSharpBasics\\CSharpBasics.csproj|g:\\vs_repositories\\csharpbasics\\csharpbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89C7FA2-E283-40F7-9F4D-44B2A6D7333B}|CSharpBasics\\CSharpBasics.csproj|solutionrelative:csharpbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CSharpBasics",
+              "DocumentMoniker": "G:\\VS_Repositories\\CSharpBasics\\CSharpBasics\\CSharpBasics.csproj",
+              "RelativeDocumentMoniker": "CSharpBasics\\CSharpBasics.csproj",
+              "ToolTip": "G:\\VS_Repositories\\CSharpBasics\\CSharpBasics\\CSharpBasics.csproj",
+              "RelativeToolTip": "CSharpBasics\\CSharpBasics.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T03:45:40.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\VS_Repositories\\CSharpBasics\\CSharpBasics\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpBasics\\Program.cs",
+              "ToolTip": "G:\\VS_Repositories\\CSharpBasics\\CSharpBasics\\Program.cs",
+              "RelativeToolTip": "CSharpBasics\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAewBIAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:17:20.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
